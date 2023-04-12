@@ -1,0 +1,1917 @@
+@media(max - width: 2000 px) and(min - width: 1400 px)
+{
+	.container
+	{
+		max - width: 1400 px
+	}
+}
+@media(max - width: 1700 px)
+{
+	.duis: before
+	{
+		width: 100 %
+	}.photo - section.about: before, .years h6: before
+	{
+		display: none
+	}.subscribe: before
+	{
+		left: 9 % ;width: 1430 px
+	}.story - img img
+	{
+		width: 100 % ;height: 1637 px;object - fit: cover
+	}
+	ul.funfact li: not(: last - child): before
+	{
+		left: 140 %
+	}.img - girl
+	{
+		top: 11.5 %
+	}.years p
+	{
+		width: 90 %
+	}.years
+	{
+		padding - top: 60 px;
+		padding - left: 60 px
+	}.years ul.list li
+	{
+		width: 50 %
+	}.years h6: after
+	{
+		left: -14 %
+	}.story - section.heading
+	{
+		padding - left: 50 px
+	}
+}
+@media(max - width: 1650 px)
+{
+	.duis: before
+	{
+		height: 464 px;width: 671 px
+	}.img - girl
+	{
+		left: 33 % ;top: 19 %
+	}.call - to - action.quote.young h3
+	{
+		left: 56 %
+	}.featured - one
+	{
+		overflow: hidden
+	}
+}
+@media(max - width: 1600 px)
+{
+	.duis img
+	{
+		width: 285 px
+	}.duis i
+	{
+		top: 30 % ;left: 40 %
+	}
+}
+@media(max - width: 1500 px)
+{
+	.duis img
+	{
+		width: 250 px
+	}.hambur > p
+	{
+		padding: 20 px 0
+	}.data - to h5
+	{
+		padding - right: 20 px;
+		font - size: 20 px
+	}.hambur h6
+	{
+		margin - right: 50 px
+	}.duis i
+	{
+		left: 44 % ;top: 25 %
+	}.contact - map iframe
+	{
+		height: 350 px;margin - top: 20 px
+	}.duis: before
+	{
+		height: 464 px;width: 622 px
+	}.call - to - action.quote.young h3
+	{
+		left: 54 %
+	}.subscribe: before
+	{
+		left: 0;width: 1496 px;height: 510 px
+	}
+}
+@media(max - width: 1400 px)
+{
+	.apointment img, .miss - workout.heading h3, img.two - img
+	{
+		margin - left: 0
+	}.build h2
+	{
+		font - size: 44 px
+	}.heading h3
+	{
+		margin - bottom: 30 px
+	}.gap
+	{
+		padding: 100 px 0
+	}.hero - section, .no - bottom
+	{
+		padding - bottom: 0
+	}.no - top, .subscribe h4
+	{
+		padding - top: 0
+	}.years p, .years ul
+	{
+		padding - top: 20 px
+	}.Post - details h4, .certificates - Section: after, .my - program.heading p, .other - workouts - Sections: before
+	{
+		display: none
+	}.smiling img
+	{
+		width: 100 % ;margin - top: 68 px
+	}
+	img.Photo - 4
+	{
+		margin - top: 0
+	}.cards h4
+	{
+		font - size: 22 px;
+		line - height: 32 px
+	}
+	ul.funfact li: not(: last - child): before
+	{
+		left: 115 % ;height: 120 px
+	}.img - girl
+	{
+		top: 18.5 % ;left: 30 %
+	}.title - blog.two.blog - 2 h3 > a
+	{
+		width: 91 %
+	}.title - blog.blog - 2 h3 > a
+	{
+		width: 92 % !important
+	}.duis p
+	{
+		width: 80 %
+	}.points1 h6
+	{
+		padding: 25 px
+	}.miss - workout p, .miss - workout.heading.Post - 1
+	{
+		padding - left: 130 px
+	}
+	h3
+	{
+		font - size: 34 px;
+		line - height: 44 px
+	}.blog - one.title - blog h3 > a, .diploma img, .years ul.list li
+	{
+		width: 100 %
+	}.blog - card
+	{
+		padding - left: 30 px
+	}.title - blog p
+	{
+		padding - bottom: 20 px
+	}.blog - card.Post - details.blog, .program p
+	{
+		padding - top: 10 px
+	}
+	img.Photo - 3
+	{
+		width: 70 %
+	}.about - info.heading h3, .benefits - section.heading h3
+	{
+		width: 56 %
+	}.cards
+	{
+		height: auto;width: auto;margin: 0;padding: 25 px
+	}.cards h4 a
+	{
+		margin - left: -38 px
+	}.bmi
+	{
+		margin - top: 99 px
+	}.tabs
+	{
+		display: flex
+	}
+	img.girl - calculator
+	{
+		padding - top: 144 px
+	}.Post - 2. Post - 1 h6
+	{
+		padding - left: 5 px
+	}.Post - data
+	{
+		flex - wrap: wrap;
+		padding - bottom: 10 px
+	}.testimonials - section.heading p
+	{
+		width: 55 %
+	}
+	img.background - calculator
+	{
+		top: 11.2 %
+	}.about - card - 1
+	{
+		padding: 30 px
+	}.years
+	{
+		padding - top: 40 px
+	}.years h6: after
+	{
+		left: -10 %
+	}.photo - preview
+	{
+		bottom: 10 %
+	}.photo.owl - theme.owl - nav.disabled + .owl - dots
+	{
+		margin - top: 5 %
+	}.card - img.benefits
+	{
+		padding: 0 0 20 px
+	}.benefit a.button.calculate
+	{
+		width: 50 %
+	}.cards - programs.card - img > img
+	{
+		height: 520 px;object - fit: cover
+	}.number h4 a
+	{
+		font - size: 20 px;
+		line - height: 30 px;
+		top: 31 %
+	}.call - to - action.quote.young h3
+	{
+		left: 79 % ;width: 75 %
+	}.other - workouts - Sections.card - img > img
+	{
+		height: 510 px;object - fit: cover
+	}.form - apointment
+	{
+		right: 13 % ;position: absolute;padding: 40 px;background - color: #fff;width: 38 % ;top: 20 %
+	}.form - apointment h2
+	{
+		font - size: 44 px;
+		line - height: 54 px
+	}.apointment - one.two.form - apointment h2
+	{
+		font - size: 36 px;
+		line - height: 46 px
+	}.pricing - table
+	{
+		padding - top: 140 px
+	}.pricing - table span
+	{
+		left: 12 % ;top: 20 %
+	}
+	img.two - img
+	{
+		margin - top: -185 px;
+		height: 245 px
+	}
+	img.one - img
+	{
+		margin - bottom: -291 px;
+		margin - left: 277 px;
+		width: 245 px
+	}.subscribe
+	{
+		padding - bottom: 200 px
+	}.range - sliders.range - slider - group.range - slider
+	{
+		width: calc(100 % -60 px);margin - top: 50 px
+	}.range - sliders.range - slider - group.input - slider
+	{
+		width: 75 % ;margin: 0 0 20 px
+	}.hero - contact.heading h3
+	{
+		margin - top: 70 px
+	}.progress - info.heading h3
+	{
+		width: 100 % ;font - size: 26 px;line - height: 36 px;margin - bottom: 20 px
+	}.meeting - data.one.join - meeting.button.back
+	{
+		padding: 15 px 10 px
+	}.join - meeting, .program
+	{
+		padding: 15 px
+	}.blog - card.Post - details.blog h4
+	{
+		display: block
+	}.blog - section
+	{
+		padding - bottom: 80 px
+	}
+}
+@media(max - width: 1366 px)
+{
+	.details - data th
+	{
+		padding: 30 px 33 px
+	}.about - info h3: before
+	{
+		left: -16 %
+	}.gap - health - style
+	{
+		margin - left: 186 px;
+		width: 80 %
+	}.background - object: before
+	{
+		content: "";position: absolute;height: 643 px;width: 326 px
+	}.hero - blog ul.crumbs
+	{
+		display: inline - flex
+	}.price h2
+	{
+		font - size: 36 px
+	}.price span
+	{
+		font - size: 20 px
+	}.price - one h3
+	{
+		text - transform: uppercase;
+		font - size: 30 px
+	}.about - card - 1 h4, .number h4 a
+	{
+		font - size: 20 px;
+		line - height: 30 px
+	}.blog - section, .calculator - section
+	{
+		padding - top: 0
+	}.years h6: before
+	{
+		display: block;width: 5 px;height: 447 px;left: -35 px;border - radius: 20 px
+	}.years h6: after
+	{
+		left: -7 %
+	}.contact - data.contact - map iframe
+	{
+		margin - top: 0
+	}.hero - contact form.about - form
+	{
+		left: 46 % ;width: 46 % ;top: 33 %
+	}.years.end h6: before
+	{
+		display: none
+	}.about - card - 1 h4
+	{
+		font - weight: 700
+	}
+	ul.funfact li h2
+	{
+		font - size: 60 px;
+		line - height: 39 px
+	}.img - girl
+	{
+		top: 10.2 % ;left: 29 %
+	}
+	ul.funfact li: not(: last - child): before
+	{
+		height: 100 px
+	}
+	form.about - form input[type = text]
+	{
+		margin - bottom: 20 px
+	}.gorgeous img.gorg
+	{
+		height: 460 px
+	}
+	form.about - form
+	{
+		margin - top: 30 px
+	}
+	ul.list li h4
+	{
+		margin: 0
+	}.gorgeous img
+	{
+		height: 640 px
+	}.apointment - one.two.form - apointment
+	{
+		padding: 15 px
+	}.Post - 1 h6, .Post - details h4
+	{
+		font - size: 12 px
+	}
+	ul.Contacts.cantrol li a
+	{
+		width: 85 %
+	}
+	ul.funfact
+	{
+		padding: 30 px
+	}
+	img.girl - calculator
+	{
+		padding - top: 147 px
+	}
+	img.background - calculator
+	{
+		top: 11.5 %
+	}.blockquote: before
+	{
+		top: 20 %
+	}.slider - na
+	{
+		padding - top: 15 px
+	}.loop - slider.owl - carousel.owl - nav button.owl - prev
+	{
+		left: 43 %
+	}.loop - slider.owl - carousel.owl - nav button.owl - next
+	{
+		right: 43 %
+	}.blockquote > p
+	{
+		font - size: 18 px;
+		line - height: 28 px;
+		margin: 0;
+		font - weight: 400;
+		padding - bottom: 18 px;
+		padding - top: 37 px
+	}.join - meeting.button.back
+	{
+		font - size: 16 px;
+		padding: 15 px 10 px
+	}.the - next - workout.workout - time
+	{
+		margin - top: 0;
+		margin - left: 60 px
+	}.subscribe - section.online.subscribe - to: after
+	{
+		z - index: -1
+	}.subscribe - to form
+	{
+		flex - wrap: wrap
+	}.subscribe - to input[type = text]
+	{
+		width: 100 % ;margin: 0
+	}.subscribe - to form.button
+	{
+		align - items: center;
+		justify - content: center;
+		display: flex;
+		width: 100 % ;
+		margin - top: 20 px
+	}.number h4 a
+	{
+		top: 30.2 %
+	}.progress - info.heading h3
+	{
+		font - size: 26 px;
+		line - height: 36 px
+	}.story - img img
+	{
+		height: 1450 px
+	}.years span
+	{
+		margin - right: 15 px
+	}.subscribe: before
+	{
+		left: 6 % ;width: 1200 px;height: 380 px;top: -4 %
+	}.view - button
+	{
+		margin - top: 40 px
+	}.photo - section: before
+	{
+		height: 420 px;width: 450 px
+	}
+}
+@media(max - width: 1200 px)
+{
+	.about - info.heading.about h3, .blog - one.title - blog h3 > a
+	{
+		font - size: 26 px;
+		line - height: 36 px
+	}.call - to - action: before
+	{
+		height: 253 px
+	}.on - schedule
+	{
+		padding - top: 80 px
+	}.other - workouts - Sections
+	{
+		padding - top: 0
+	}.panels
+	{
+		margin - top: -12 px
+	}.miss - workout.heading h3
+	{
+		border: 0;padding: 0;backdrop - filter: blur(1 px)
+	}.years h6: before
+	{
+		height: 435 px
+	}.apointment - one.two.form - apointment
+	{
+		padding: 40 px;top: 38 % ;margin - bottom: 52 px
+	}.title - blog.blog - 2.blog - card, img.Photo - 3
+	{
+		padding - left: 0
+	}.program
+	{
+		padding: 10 px
+	}.blog - img span
+	{
+		left: 6 %
+	}.blog - img span.two
+	{
+		left: 25 %
+	}.smiling img
+	{
+		margin - top: 160 px
+	}.about - section.gap: before, .duis, .points1 h6, .weight - scale
+	{
+		display: none
+	}.subscribe.form - name, .tabs
+	{
+		flex - wrap: wrap
+	}.Post - 2. Post - 1 h6
+	{
+		padding - right: 15 px;
+		padding - left: 0
+	}.checkbox - Website
+	{
+		padding - top: 15 px
+	}.subscribe input[type = text]
+	{
+		width: 100 % ;margin - right: 0
+	}.subscribe.button
+	{
+		display: flex;align - items: center;justify - content: center;width: 100 % ;margin - top: 20 px;margin - left: 0
+	}
+	img.two - img
+	{
+		margin - left: -49 px;
+		margin - top: -196 px;
+		height: 194 px;
+		border: 20 px solid #fff
+	}.subscribe: before
+	{
+		left: 5 % ;width: 1050 px;height: 325 px;top: 13 %
+	}.blog - section.heading h3
+	{
+		margin: auto auto 20 px;width: 53 %
+	}.blog - section.heading
+	{
+		text - align: center
+	}.blog - section.heading p
+	{
+		width: 80 % ;margin: auto
+	}.Post
+	{
+		margin - top: 25 px
+	}.Post - 2. Post - 1. post - 4, .photos img
+	{
+		margin - top: 50 px
+	}
+	ul.funfact li: not(: last - child): before
+	{
+		left: 100 %
+	}.build h2
+	{
+		font - size: 36 px;
+		line - height: 46 px
+	}.img - girl img
+	{
+		width: 440 px
+	}.img - girl
+	{
+		left: 55 % ;top: 4 %
+	}
+	ul.funfact
+	{
+		margin - top: 64 px
+	}.build
+	{
+		margin - top: 230 px
+	}
+	img.Photo - 3
+	{
+		width: 55 %
+	}.about - info.heading h3, .heading.schedule - one p
+	{
+		width: 100 %
+	}.photo - section: before
+	{
+		width: 400 px
+	}.bmi
+	{
+		margin - top: 90 px
+	}
+	img.girl - calculator
+	{
+		padding - top: 209 px
+	}
+	img.background - calculator
+	{
+		top: 11 %
+	}.testimonials - section.heading p
+	{
+		width: 70 %
+	}.about - info.heading.about h3
+	{
+		margin - top: -14 px;
+		margin - bottom: 0
+	}.about - info p
+	{
+		padding - left: 30 px;
+		width: 100 %
+	}.about - card - 1 h4
+	{
+		font - size: 18 px;
+		line - height: 26 px
+	}.years
+	{
+		padding - top: 30 px
+	}.years p
+	{
+		padding - top: 20 px
+	}.young h2
+	{
+		font - size: 70 px
+	}.join - meeting a.join
+	{
+		width: 72 %
+	}.workout - time
+	{
+		padding: 30 px
+	}.next - workout img
+	{
+		width: 100 % ;height: auto;margin - left: 0
+	}.miss - workout.heading h3
+	{
+		margin - left: 32 px;
+		margin - top: 40 px;
+		width: 96 %
+	}.photo - preview
+	{
+		bottom: 20 % ;left: 41 %
+	}.photo.owl - theme.owl - nav.disabled + .owl - dots
+	{
+		margin - top: -8 %
+	}.blockquot
+	{
+		margin - top: 40 px
+	}.testimonial.heading p
+	{
+		padding - bottom: 40 px;
+		width: 100 %
+	}.cards - programs.card - img > img
+	{
+		height: 500 px
+	}.number h4 a
+	{
+		font - size: 24 px;
+		line - height: 30 px;
+		top: 30.5 %
+	}.color - time, .number
+	{
+		padding - bottom: 0
+	}.progress - bar - img img
+	{
+		height: auto;width: 100 % ;margin - top: 70 px
+	}.progress - bar - img: before
+	{
+		height: 357 px;width: 432 px
+	}.progress - bar - section
+	{
+		padding: 80 px 0 250 px
+	}.call - to - action.quote.young h3
+	{
+		left: 69 % ;width: 32 %
+	}.apointment h3
+	{
+		width: 36 % ;left: 6 %
+	}.form - apointment
+	{
+		right: -5 % ;position: relative;width: 91 % ;top: 72 % ;margin - top: -17 %
+	}.apointment img
+	{
+		margin - top: 180 px;
+		width: 100 %
+	}.apointment - one.two.form - apointment h2
+	{
+		font - size: 44 px;
+		line - height: 54 px
+	}.apointment - one.two.apointment h3
+	{
+		width: 32 %
+	}.pricing - table span
+	{
+		top: 16 %
+	}.hero - contact.heading
+	{
+		margin - left: 56 px
+	}.hero - contact form.about - form
+	{
+		width: 44 % ;left: 48 % ;padding: 38 px;top: 39 %
+	}.range - sliders.range - slider - group.input - slider
+	{
+		width: 86 %
+	}.time - girl img
+	{
+		position: relative;width: 100 % ;height: auto;left: 0
+	}.background - object: before
+	{
+		content: "";position: absolute;height: 542 px;width: 442 px;z - index: 0;top: 0;left: 53 %
+	}.time - girl h4
+	{
+		height: 250 px;width: 40 % ;margin - top: 80 px
+	}.background - object
+	{
+		overflow: hidden
+	}.heading.schedule - one
+	{
+		text - align: center;
+		margin - bottom: 25 px
+	}.img - girl img
+	{
+		margin - top: 9 px
+	}.about - card - 1
+	{
+		padding: 17 px
+	}.years h6: before
+	{
+		left: -29 px
+	}
+	img.one - img
+	{
+		border: 20 px solid #fff;margin - bottom: -130 px;margin - left: 161 px;height: 250 px
+	}
+}
+@media(max - width: 1100 px)
+{
+	.years p
+	{
+		padding - top: 0
+	}.progress - bar - section
+	{
+		padding: 120 px 0 0
+	}.years h6: before
+	{
+		height: 417 px;left: -26 px
+	}.the - next - workout.workout - time
+	{
+		margin - top: 0;
+		margin - left: 25 px;
+		width: 90 %
+	}.workout - time h5, .workout - time h6
+	{
+		padding - bottom: 25 px
+	}.workout - time
+	{
+		justify - content: space - between
+	}.progressbar - wrap
+	{
+		flex - wrap: wrap
+	}.progressbar
+	{
+		width: 100 % ;position: relative
+	}
+}
+@media(max - width: 1024 px)
+{
+	.slider
+	{
+		display: block
+	}.story - img img
+	{
+		height: 1540 px
+	}.blockquote: before
+	{
+		top: 8 %
+	}.slider - na
+	{
+		padding - bottom: 20 px
+	}.blockquote
+	{
+		padding - right: 40 px
+	}.loop - slider.owl - carousel.owl - nav button.owl - prev
+	{
+		left: 40 %
+	}.loop - slider.owl - carousel.owl - nav button.owl - next
+	{
+		right: 40 %
+	}.young: before
+	{
+		display: none
+	}
+}
+@media(max - width: 993 px)
+{
+	.gap
+	{
+		padding: 80 px 0
+	}.apointment img, .blog - details - data
+	{
+		margin - top: 120 px
+	}.gap - health - style
+	{
+		width: 100 % ;margin - left: 0
+	}
+	li.map - pin a i
+	{
+		color: #000}.blog-section .heading h3,.blog-section .heading p,.bmi-calculator .heading p,.footer-title p,.join-meeting a.join,.other-workouts-Sections .heading p,.pricing-table p,.progress-bar-section .heading,.requirements-section .heading h3,.the-next-workout .workout-time,ul.Contacts.cantrol li a{width:100%}.bmi-calculator,.heading.schedule-one,.on-schedule{padding-top:80px}.subscribe-section.online{padding-bottom:80px}.features-section,.next-workout,.workout-time h5,.workout-time h6{padding-bottom:0}.miss-workout.heading .Post-1,.years p{padding-top:20px}.miss-workout.heading h3{margin:20px 0 40px}.about-info p,.details-data>h6,.miss-workout p,.miss-workout.heading .Post-1,.title-blog.blog-2 .blog-card{padding-left:0}.hero-blog{padding-top:120px}.benefits-section,.blog-one.gap,.no-bottom,.no-top{padding-top:0}.my-program{overflow:hidden}.img-girl img{margin-top:-8px}.bmi,.photos,.photos img,.smiling img{margin-top:0}.bar-menu,.call-to-action.quote .young,.map-pin,.my-program .heading p,.program.mobil,.slider-img-pag,.table-mobil,.table-mobil-blog{display:block}.map-pin a.close-icon{opacity:0}.map-pin.active a.close-icon{opacity:1;z-index:111}.map-pin .program.mobil{opacity:0;visibility:hidden;padding:25px;backdrop-filter:blur(15px);background-color:# ffffff63
+	}.subscribe h4
+	{
+		padding - top: 30 px
+	}.subscribe: before
+	{
+		width: 1000 px;left: 0;height: 710 px
+	}.smiling li: first - child.map - pin.active.program.mobil
+	{
+		top: -36 px
+	}.smiling li: nth - child(2)
+	{
+		top: 38 % ;left: 56 %
+	}.smiling li: nth - child(2).map - pin.active.program.mobil, .smiling li: nth - child(4).map - pin.active.program.mobil
+	{
+		top: -36 px
+	}.smiling li: nth - child(3)
+	{
+		top: 48 % ;left: 87 %
+	}.smiling li: nth - child(3).map - pin.active.program.mobil
+	{
+		top: -36 px;left: -70 %
+	}.smiling li: nth - child(3) a.close - icon
+	{
+		width: 286 px
+	}.smiling li: nth - child(4)
+	{
+		top: 62 % ;left: 41 %
+	}.smiling li: nth - child(5)
+	{
+		top: 71 % ;left: 82 %
+	}.smiling li: nth - child(5).map - pin.active.program.mobil
+	{
+		left: -52 % ;top: -36 px
+	}.smiling li: nth - child(5) a.close - icon
+	{
+		width: 205 px
+	}
+	a.close - icon
+	{
+		position: absolute;font - size: 22 px;top: 21 px;z - index: 1;right: 5 %
+	}.map - pin, span.dot
+	{
+		top: 52 % ;height: 26 px
+	}.map - pin.active.program.mobil
+	{
+		opacity: 1;position: relative;visibility: visible;z - index: 1
+	}
+	span.dot
+	{
+		width: 26 px;display: inline - flex;border - radius: 100 px;border: 6 px solid #fff
+	}.program - img
+	{
+		display: flex;align - items: center
+	}.program - img img
+	{
+		width: auto
+	}.map - pin
+	{
+		width: 50 % ;border - radius: 100 px;position: absolute
+	}.smiling
+	{
+		position: relative
+	}.about - info h3: before, .calculator - Photo, .desktop - table, .extras, .menu - bar, .previou.previous - post img, .program, .story - img, .subscribe - to.checkbox - Website, .table - one, .young, .young: after
+	{
+		display: none
+	}.my - program.heading a
+	{
+		width: 100 % ;text - align: center
+	}
+	ul.Privacy li a
+	{
+		font - size: 14 px
+	}
+	img.one - img
+	{
+		margin - bottom: 0;
+		margin - left: 0
+	}
+	img.two - img
+	{
+		margin - left: 81 px;
+		margin - top: -120 px
+	}.price h2
+	{
+		font - size: 40 px;
+		background - color: #fff;
+		padding: 16 px;
+		margin: 40 px 0
+	}.benefit, .hero - contact.heading h3
+	{
+		margin - top: 80 px
+	}.img - girl
+	{
+		left: 41 % ;top: 7 %
+	}.blog - img span.two
+	{
+		left: 24 %
+	}
+	h2
+	{
+		font - size: 46 px
+	}.blog - one.title - blog h3 > a
+	{
+		margin - left: 46 px;
+		margin - top: -50 px;
+		width: 91 %
+	}.hero - blog.content p
+	{
+		width: 75 %
+	}.photo - section: before
+	{
+		width: 660 px
+	}
+	img.Photo - 3
+	{
+		width: 76 % ;padding - left: 150 px
+	}.about - info.heading h3
+	{
+		background: #fff;padding: 20 px 40 px 0;margin - top: -55 px
+	}.benefits - section.heading h3, .workout - time
+	{
+		width: 80 %
+	}.cards
+	{
+		margin - top: 40 px;
+		padding: 40 px
+	}.cards h4 a
+	{
+		margin - left: -56 px
+	}.Post - 2, .about - info a, .hero - contact.heading, form.about - form.callto
+	{
+		margin - left: 0
+	}.Post - 2. Post - 1. post - 4
+	{
+		margin - right: 0
+	}.blog - section.heading
+	{
+		text - align: start
+	}.Post - 1 h6, .Post - details h4
+	{
+		font - size: 12 px
+	}.Post
+	{
+		padding: 20 px
+	}.ready - to.heading
+	{
+		margin - left: 0;
+		margin - top: 30 px
+	}.ready - to.heading p
+	{
+		padding - bottom: 20 px
+	}.footer - title form
+	{
+		flex - wrap: wrap;
+		justify - content: space - between
+	}.footer - title input[type = text]
+	{
+		width: 122 % ;margin: 0 0 10 px
+	}.Menu.contac, .pricing - table - img img
+	{
+		margin - top: 60 px
+	}.content p
+	{
+		width: 95 %
+	}.content.button
+	{
+		align - items: center;
+		justify - content: center;
+		display: flex
+	}.about - section - photo: before
+	{
+		height: 180 px;width: 464 px;bottom: -5 % ;left: 33 px
+	}.about - info.heading.about h3
+	{
+		margin - left: 30 px;
+		margin - top: -45 px;
+		margin - bottom: 20 px;
+		width: 96 %
+	}.years h6: after
+	{
+		left: -4.8 %
+	}.years h6: before
+	{
+		height: 406 px;display: block;left: -4 %
+	}.call - to - action: before
+	{
+		height: 230 px
+	}.footer - img.footer - title input[type = text]
+	{
+		width: 100 % ;margin: 0
+	}.footer - img: before
+	{
+		height: 700 px
+	}.next - img: before
+	{
+		right: -10 %
+	}.next - img: after
+	{
+		right: -7 %
+	}.the - next - workout.heading h3
+	{
+		margin - top: -51 px;
+		margin - left: 60 px;
+		width: 92 % ;
+		z - index: 0
+	}.the - next - workout.workout - time
+	{
+		margin - top: -30 px;
+		margin - left: 25 px
+	}.subscribe - section.online.subscribe - to: after
+	{
+		right: -16 %
+	}.subscribe - to
+	{
+		padding - left: 0;
+		padding - top: 60 px
+	}.photo - preview
+	{
+		bottom: -1 % ;left: 20 %
+	}.photo.owl - theme.owl - nav.disabled + .owl - dots
+	{
+		margin - top: 6 %
+	}.card - img - hover
+	{
+		padding: 30 px
+	}.number h4 a
+	{
+		left: 15 %
+	}.progress - bar - img: before
+	{
+		top: 40 % ;left: 41 %
+	}.call - to - action.quote.young h3
+	{
+		left: 54 % ;width: 46 %
+	}.call - to - action.quote: before
+	{
+		top: 76 % ;height: 300 px
+	}.details - data
+	{
+		padding: 40 px 60 px
+	}.Post - details.blog
+	{
+		justify - content: space - between
+	}.details - data.comment - text textarea, .details - data form.about - form.comment - text input[type = text]
+	{
+		margin - bottom: 25 px
+	}.blog - one.title - blog.blog - 2 h3 > a
+	{
+		margin - left: 55 px
+	}.apointment h3
+	{
+		width: 46 % ;left: 6 %
+	}.apointment - one.two.form - apointment
+	{
+		top: 28 % ;margin - bottom: 150 px
+	}.apointment - one.two.apointment h3
+	{
+		top: 33 % ;width: 43 % ;left: 62 % ;z - index: 2;backdrop - filter: blur(10 px)
+	}.pricing - table span
+	{
+		left: 34 % ;top: 4 %
+	}.pricing - table
+	{
+		text - align: center;
+		padding - bottom: 0;
+		padding - top: 120 px
+	}.pricing - table - img: after
+	{
+		right: -22 % ;top: 49.4 % ;height: 300 px;width: 301 px
+	}.hero - contact form.about - form
+	{
+		width: 100 % ;left: 0;padding: 38 px;top: 0;position: relative
+	}.time - girl h4
+	{
+		height: 220 px;padding: 22 px;margin - top: 80 px
+	}.call - to - sction.heading
+	{
+		padding: 0;margin - top: 80 px
+	}.meeting - data
+	{
+		margin - top: 0;
+		margin - bottom: 20 px
+	}.call - to - img img.img - call
+	{
+		top: 40 % ;left: -1 %
+	}.table - mobil - data.table - data h6
+	{
+		color: #000;font-size:22px;font-weight:700;width:64%}.mobil-tr{padding:10px;border:1px solid # f2f2f2
+	}.table - mobil - data h4
+	{
+		color: #fff;background - color: #000;padding:25px;text-align:center}.table-data.mobil span{color:# fff;font - size: 16 px
+	}.table - mobil - blog h3
+	{
+		background - color: #000;color:# fff;
+		text - align: center;
+		font - size: 20 px;
+		padding: 15 px;
+		border: 1 px solid #fff
+	}.table - mobil - blog
+	{
+		margin - top: 30 px;
+		margin - bottom: 30 px
+	}.table - mobil - blog h6
+	{
+		padding: 25 px;text - align: center;border: 1 px solid #f2f2f2
+	}
+	form.button
+	{
+		margin - top: 5 px;
+		width: 100 %
+	}.hero - section
+	{
+		padding - bottom: 60 px
+	}.benefits - section.heading h3
+	{
+		margin - bottom: 0
+	}
+}
+@media(max - width: 768 px)
+{
+	.benefits - section.heading h3: after
+	{
+		left: 34 %
+	}.Post - details.blog, .weekdays - list, .workout - time
+	{
+		flex - wrap: wrap
+	}.blog - details - data h3
+	{
+		font - size: 28 px;
+		line - height: 38 px
+	}.about - card - 1 h4, .call - to - action.quote.young h3
+	{
+		line - height: 34 px;
+		font - size: 24 px
+	}.blog - section
+	{
+		padding - top: 80 px
+	}.requirements - section
+	{
+		padding - bottom: 0
+	}.about - section - photo.portfo img.Photo - about
+	{
+		height: auto
+	}.points1 img
+	{
+		top: 79 % ;left: 3 %
+	}.mobile - nav > ul > li.menu - item - has - children: before
+	{
+		top: 19 px;left: -7 % ;width: 10 px
+	}.calculator - section
+	{
+		margin - bottom: 0
+	}.img - girl img
+	{
+		margin - top: 20 px;
+		width: 70 %
+	}
+	#mobile - nav.hmburger - menu
+	{
+		width: 80 %
+	}.map - pin
+	{
+		width: 64 %
+	}.smiling li: nth - child(5).map - pin.active.program.mobil
+	{
+		left: -52 % ;top: -88 px
+	}.smiling li: nth - child(2).map - pin.active.program.mobil
+	{
+		top: -65 px;left: -65 %
+	}.smiling li: nth - child(5) a.close - icon
+	{
+		width: 0;left: 26 % ;top: -24 px
+	}.benefit a.button.calculate, .build h2, .build p, .footer - title p, .meeting - img img, ul.funfact
+	{
+		width: 100 %
+	}.smiling li: nth - child(2) a.close - icon
+	{
+		left: 22 % ;top: 10 %
+	}.img - girl
+	{
+		position: relative;left: 0
+	}
+	ul.funfact
+	{
+		margin - top: 0
+	}.build
+	{
+		margin - bottom: 50 px
+	}.about - info a, .build.button, .heading.schedule - one.button
+	{
+		display: flex;align - items: center;justify - content: center
+	}
+	img.Photo - 3
+	{
+		width: 66 % ;padding - left: 0
+	}.photo - section: before
+	{
+		width: 495 px
+	}.cards
+	{
+		margin - left: 80 px
+	}.cards h4 a
+	{
+		margin - left: -80 px
+	}.benefits - section.heading h3
+	{
+		width: 100 % ;font - size: 30 px;line - height: 40 px
+	}.loop - slider.owl - carousel.owl - nav button.owl - next, .loop - slider.owl - carousel.owl - nav button.owl - prev, .next - img: after, .next - img: before, .weight - scale
+	{
+		display: none
+	}.Post
+	{
+		padding: 25 px
+	}.testimonials - section.heading p
+	{
+		width: 90 %
+	}.loop - slider.owl - item.active
+	{
+		opacity: 1
+	}.gorgeous img
+	{
+		left: 26 %
+	}.footer - title input[type = text]
+	{
+		width: 100 % ;margin: 0 0 10 px
+	}.Post - details.blog h4, .blockquot, .blog - img.details, form.about - form.callto
+	{
+		margin - left: 0
+	}.img - girl: before
+	{
+		position: absolute;content: "";width: 100 % ;height: 307 px;left: 0;bottom: 0;z - index: -1;top: 61 %
+	}
+	form.button
+	{
+		margin - top: 10 px;
+		width: 100 %
+	}.Menu
+	{
+		margin - top: 60 px
+	}.bottom - section
+	{
+		flex - wrap: wrap;
+		justify - content: center
+	}
+	ul.Privacy li a
+	{
+		padding - left: 20 px;
+		font - size: 14 px
+	}.bottom - section p
+	{
+		font - size: 16 px
+	}.about - section - photo: before
+	{
+		height: 219 px;width: 763 px;bottom: -5 % ;left: -113 px
+	}.about - info.heading.about h3
+	{
+		width: 95 %
+	}.years h6: before
+	{
+		left: -6 %
+	}.join - meeting.button.back
+	{
+		font - size: 18 px;
+		padding: 18 px 40 px
+	}.join - meeting a.join
+	{
+		font - size: 24 px
+	}.the - next - workout.workout - time
+	{
+		margin - top: 0;
+		margin - left: 0
+	}.miss - workout p
+	{
+		padding - left: 20 px
+	}.miss - workout.heading.Post - 1
+	{
+		padding - left: 20 px;
+		padding - top: 20 px
+	}.workout - time h5, .workout - time h6
+	{
+		padding - bottom: 0;
+		font - size: 54 px
+	}.workout - time
+	{
+		margin - top: -10 px;
+		width: 90 %
+	}.blockquot
+	{
+		margin - top: 10 px
+	}.photos h2
+	{
+		left: -41 %
+	}.photos: before
+	{
+		width: 330 px
+	}.card - img - hover
+	{
+		padding: 45 px
+	}.number h4 a
+	{
+		left: 22 %
+	}.progress - bar - img: before
+	{
+		top: 24 % ;left: 21 %
+	}.progressbar
+	{
+		padding: 40 px
+	}.call - to - action.quote.young h3
+	{
+		left: 54 % ;width: 60 %
+	}.call - to - action form.about - form
+	{
+		padding - bottom: 40 px
+	}.details - data
+	{
+		padding: 40 px 0
+	}.share
+	{
+		margin - top: 20 px
+	}.apointment h3
+	{
+		width: 57 % ;top: 56 % ;font - size: 30 px;left: 5 %
+	}.form - apointment h2
+	{
+		font - size: 38 px;
+		line - height: 48 px
+	}.form - apointment
+	{
+		right: -5 %
+	}.apointment img
+	{
+		margin - top: 80 px
+	}.weekdays - list.weekdays - day
+	{
+		width: 60 px;height: 30 px
+	}.apointment - one.two.form - apointment
+	{
+		top: 18 % ;margin - bottom: 130 px
+	}.apointment - one.two.apointment: after
+	{
+		width: 500 px;height: 202 px
+	}.price
+	{
+		margin - bottom: 30 px
+	}.pricing - table span
+	{
+		left: 33 % ;top: 6 % ;font - size: 120 px
+	}.pricing - table p
+	{
+		padding: 50 px 0 40 px
+	}
+	img.two - img
+	{
+		margin - left: 11 px;
+		margin - top: -191 px;
+		height: 230 px
+	}.time - girl h4
+	{
+		left: 2 % ;position: absolute;height: auto
+	}.time - girl img
+	{
+		left: 20 %
+	}.heading.schedule - one
+	{
+		text - align: start;
+		margin - bottom: 25 px
+	}.years h6: after
+	{
+		left: -7 %
+	}.about - card - 1
+	{
+		align - items: center
+	}.about - card - 1 h4
+	{
+		margin: 0
+	}.hero - section
+	{
+		padding - top: 150 px
+	}
+}
+@media(max - width: 600 px)
+{
+	.years h6: after
+	{
+		left: -8.5 %
+	}.about - photo - section.online img
+	{
+		margin - left: -70 px;
+		height: 170 px;
+		width: 170 px;
+		border: 50 px solid #fff
+	}
+	form.about - form.callto
+	{
+		box - shadow: none;
+		padding: 23 px
+	}.blockquot, .subscribe - to
+	{
+		padding: 20 px
+	}.blog - img
+	{
+		padding - top: 25 px
+	}.Contacts li
+	{
+		margin - top: 25 px
+	}.hero - contact.Menu, .hero - contact.heading
+	{
+		padding: 0 20 px 20 px
+	}
+	img.Photo - about - 1
+	{
+		margin - left: 0
+	}.pricing - table span
+	{
+		left: 28 % ;top: 6 %
+	}.apointment - one.two.apointment: before
+	{
+		right: 6 % ;bottom: -30 %
+	}.apointment - one.two.apointment h3
+	{
+		font - size: 22 px;
+		line - height: 32 px
+	}.years h6: before
+	{
+		left: -7 %
+	}.progress - bar - img: before
+	{
+		top: 21 % ;left: 19 %
+	}.progress - bar - img: after
+	{
+		right: 7 %
+	}.photo - preview
+	{
+		bottom: -1 % ;left: 5 %
+	}
+	li.second
+	{
+		margin - left: 80 px
+	}
+	li.first
+	{
+		margin - left: 40 px
+	}
+	#mobile - nav.hmburger - menu
+	{
+		width: 80 %
+	}.smiling li: nth - child(4).map - pin.active.program.mobil
+	{
+		top: -154 px;left: -51 %
+	}.smiling li: nth - child(4) a.close - icon
+	{
+		left: 33 % ;top: -98 px
+	}.call - to - sction.heading
+	{
+		margin - top: 38 px;
+		padding: 60 px 20 px 20 px
+	}
+}
+@media(max - width: 576 px)
+{
+	.about - info p
+	{
+		padding: 10 px
+	}.about - card - 1. card - 2
+	{
+		margin: 20 px 0
+	}.about - info a
+	{
+		margin: 0 10 px
+	}.testimonials - section.heading h3
+	{
+		font - size: 30 px;
+		margin - bottom: 25 px
+	}.smiling li: nth - child(5) a.close - icon
+	{
+		left: 5 %
+	}.smiling li: nth - child(3) a.close - icon
+	{
+		width: 0;left: -16 % ;top: -47 px
+	}.map - pin
+	{
+		width: 50 %
+	}.smiling li: nth - child(5).map - pin.active.program.mobil
+	{
+		top: -158 px;left: -84 %
+	}.smiling li: nth - child(3).map - pin.active.program.mobil
+	{
+		top: -118 px;left: -102 %
+	}.smiling li: nth - child(5) a.close - icon
+	{
+		margin - top: -76 px;
+		top: -11 % ;
+		width: 260 px
+	}
+	img.one - img
+	{
+		border: 20 px solid #fff;margin - bottom: 13 px;margin - left: 0;height: 183 px;width: 170 px;margin - top: 25 px
+	}
+	img.two - img
+	{
+		margin - left: 50 px;
+		border: 20 px solid #fff;
+		height: 190 px
+	}.blog - one.title - blog.blog - 2 h3 > a
+	{
+		margin - left: 41 px
+	}.testimonials - section.heading h3: after
+	{
+		left: 32 % ;top: 64 %
+	}.img - girl img
+	{
+		width: 300 px;margin - top: 40 px
+	}.photo - section: before
+	{
+		width: 97 %
+	}.ready - to.heading h3: after
+	{
+		top: 57 % ;left: 23 %
+	}.about - section - photo
+	{
+		padding: 15 px
+	}.meeting - img img
+	{
+		width: auto
+	}.miss - workout.heading h3
+	{
+		width: 96 %
+	}.photos img
+	{
+		width: 100 %
+	}.call - to - action.quote.young h3
+	{
+		left: 54 % ;width: 52 % ;font - size: 22 px;line - height: 34 px
+	}.call - to - action.quote: before
+	{
+		height: 240 px
+	}.time - girl h4
+	{
+		left: 2 % ;width: 48 % ;position: absolute
+	}.range - sliders.range - slider - group.input - slider
+	{
+		width: 82 %
+	}
+}
+@media(max - width: 500 px)
+{
+	img.Photo - 3
+	{
+		width: 60 %
+	}.mobile - nav > ul > li.menu - item - has - children: before
+	{
+		top: 14 px;left: -10 % ;width: 10 px
+	}.mobile - nav > ul li > a
+	{
+		font - size: 16 px;
+		line - height: 24 px
+	}.years h6: before
+	{
+		height: 466 px
+	}.smiling li: nth - child(3) a.close - icon
+	{
+		width: 260 px
+	}.apointment - one.two.form - apointment
+	{
+		padding: 30 px
+	}.blog - detai img
+	{
+		width: 160 px
+	}.apointment - one.two.form - apointment h2
+	{
+		font - size: 38 px;
+		line - height: 48 px
+	}.blog - detai: before
+	{
+		height: 160 px;width: 160 px
+	}.hana - evans
+	{
+		align - items: start
+	}.photo - section: before
+	{
+		width: 97 %
+	}.meeting - img img
+	{
+		width: 100 %
+	}.miss - workout.heading h3
+	{
+		margin - left: 0
+	}.subscribe - to
+	{
+		padding - left: 20 px
+	}.blog - one.title - blog h3 > a
+	{
+		font - size: 28 px;
+		line - height: 38 px
+	}.out - schedule
+	{
+		display: block
+	}.apointment h3
+	{
+		left: 5 % ;top: 47 % ;font - size: 22 px;line - height: 32 px;width: 38 %
+	}
+}
+@media(max - width: 480 px)
+{
+	.apointment - one.two.form - apointment h2, .build h2, .form - apointment h2
+	{
+		font - size: 32 px;
+		line - height: 42 px
+	}.blog - details - data h3
+	{
+		font - size: 24 px;
+		line - height: 34 px
+	}.join - meeting.button.back, ul.Contacts.mobil a
+	{
+		font - size: 16 px
+	}.blog - card.Post - details.blog h4
+	{
+		display: nono
+	}.smiling li: nth - child(3) a.close - icon
+	{
+		width: 240 px
+	}.map - pin
+	{
+		width: 73 %
+	}.program - img h4 a, .table - mobil - blog h3, .table - mobil - blog h6
+	{
+		font - size: 18 px
+	}.table - mobil - data.table - data h6
+	{
+		color: #000;font-size:18px;font-weight:700}.bmi-calculator .heading h3:after{left:47%}.pricing-table span{left:22%}.range-sliders .range-slider-group .input-slider{width:80%}.time-girl h4{top:-12%}.apointment-one.two .apointment:after{width:400px;height:150px}.blog-one .title-blog.blog-2 h3>a{margin-left:35px}.call-to-action.quote .young h3{left:54%;width:56%;font-size:18px;line-height:28px}.blog-one .blog-img span{left:5%}.blog-one .blog-img span.two{left:26%}.progress-bar-img:before{top:26%;left:11%;width:400px;height:299px}.workout-time h5,.workout-time h6{font-size:40px}ul.funfact li h2{font-size:36px}ul.funfact li:not(:last-child):before{height:0}ul.funfact li p{font-size:12px;font-weight:300}img.Photo-4{height:200px;width:200px;object-fit:cover}img.Photo-3{width:57%}.photo-section:before{width:97%}.years h6:after{left:-10%}.years h6:before{top:48%;left:-8.2%}.years span{font-size:28px;display:block}.story-section .heading p{width:95%}.footer-title h3,.heading h3{font-size:30px;line-height:40px}.join-meeting{padding:25px 15px 15px}.content h2{font-size:34px;line-height:44px}.photos:before{width:410px;height:215px;left:3%;top:60%}.photos h2{font-size:100px;transform:rotate(0);top:3%;left:7%}.card-img-hover,.form-apointment{padding:30px}.number h4 a{left:27%;font-size:22px;top:30.2%}li.second{margin-left:60px}li.first{margin-left:30px}.previou.next-post a{padding-left:65px}.apointment h3{line-height:26px;left:5%;top:55%;width:61%;font-size:16px;padding:16px}.apointment img{margin-top:90px}img.one-img,img.two-img{height:160px}.call-to-img img.img-call{width:140px;height:140px;object-fit:cover;border:20px solid # fff;top: 57 %
+	}
+}
+@media(max - width: 410 px)
+{
+	.bmi.heading h3: after
+	{
+		left: 8 % ;top: 61 %
+	}.years h6: after
+	{
+		left: -15 %
+	}.years h6: before
+	{
+		left: -13.2 % ;height: 496 px
+	}.bmi - calculator.heading h3: after
+	{
+		left: 44 %
+	}.time - girl h4
+	{
+		top: -17 % ;font - size: 18 px;line - height: 28 px
+	}.range - sliders.range - slider - group.input - slider
+	{
+		width: 76 %
+	}.pricing - table span
+	{
+		left: 25 % ;font - size: 100 px;top: 8 %
+	}.pricing - table h2
+	{
+		font - size: 30 px
+	}.price - one h3
+	{
+		font - size: 24 px;
+		line - height: 34 px
+	}.about - info.heading h3, .apointment - one.two.form - apointment h2
+	{
+		font - size: 30 px;
+		line - height: 40 px
+	}.apointment - one.two.apointment h3
+	{
+		font - size: 18 px;
+		line - height: 28 px
+	}.apointment - one.two.apointment: before
+	{
+		right: -14 % ;bottom: -89 %
+	}.apointment - one.two.apointment: after
+	{
+		width: 266 px;height: 140 px
+	}.weekdays - list.weekdays - day
+	{
+		width: 50 px;height: 30 px
+	}.blog - detai img
+	{
+		width: 120 px
+	}.blog - detai: before
+	{
+		height: 120 px;width: 120 px
+	}.previou a
+	{
+		padding - left: 4 px
+	}.previou h6..previou.next - post h6
+	{
+		font - size: 14 px;
+		line - height: 24 px
+	}.call - to - action.quote.young h3
+	{
+		left: 54 % ;width: 52 % ;font - size: 16 px;line - height: 24 px
+	}.progress - bar - img: before
+	{
+		top: 34 % ;left: 14 % ;width: 400 px;height: 299 px
+	}.progress - bar - section.gap
+	{
+		overflow: hidden
+	}.blog - section.heading h3, .bmi.heading h3
+	{
+		font - size: 26 px;
+		line - height: 36 px
+	}.Post
+	{
+		padding: 12 px
+	}
+	img.Photo - 3
+	{
+		width: 52 %
+	}
+	img.Photo - 4
+	{
+		height: 150 px;width: 150 px
+	}.photo - section: before
+	{
+		height: 270 px;width: 336 px
+	}.benefits - section.heading h3
+	{
+		width: 100 % ;font - size: 24 px;line - height: 30 px
+	}.photo - preview img
+	{
+		width: 60 px
+	}
+	img.one - img, img.two - img
+	{
+		width: 130 px;height: 130 px
+	}.photo - preview
+	{
+		bottom: 1 % ;left: 4 %
+	}.photos: before
+	{
+		width: 390 px
+	}
+	img.one - img
+	{
+		margin - left: 25 px
+	}
+}
+@media(max - width: 375 px)
+{
+	.img - girl
+	{
+		left: 5 %
+	}.join - meeting.button.back, ul.Contacts.mobil a
+	{
+		font - size: 14 px
+	}.photo - preview
+	{
+		bottom: 0
+	}.photo.owl - theme.owl - nav.disabled + .owl - dots
+	{
+		margin - top: 12 %
+	}.years h6: before
+	{
+		left: -14.2 % ;height: 533 px
+	}.years h6: after
+	{
+		left: -16 %
+	}.gap
+	{
+		padding: 60 px 0
+	}.no - top
+	{
+		padding - top: 0
+	}.content span, .no - bottom
+	{
+		padding - bottom: 0
+	}.img - girl: before
+	{
+		width: 442 px;height: 205 px;left: -27 % ;top: 72 %
+	}.gorgeous img
+	{
+		left: 16 % ;height: auto
+	}.blog - one.blog - img span
+	{
+		top: 20 % ;left: 5 %
+	}.blog - one.blog - img span.two
+	{
+		left: 30 % ;top: 20 %
+	}.Post - details.blog h6
+	{
+		margin - left: 10 px
+	}.blog - details - data h3, .blog - one.title - blog h3 > a, .card - img - hover h3, .card - img > a, .footer - title h3, .form - apointment h2, .heading h3, .subscribe - to h3
+	{
+		font - size: 26 px;
+		line - height: 36 px
+	}.miss - workout.heading h3
+	{
+		font - size: 24 px;
+		line - height: 34 px;
+		margin - bottom: 0
+	}.workout - time
+	{
+		padding: 15 px;margin - top: -10 px;width: 85 %
+	}.workout - time h5, .workout - time h6
+	{
+		font - size: 30 px
+	}.workout - time span
+	{
+		font - size: 18 px
+	}.blog - one.title - blog.blog - 2 h3 > a
+	{
+		margin - left: 26 px
+	}.about - photo - section
+	{
+		left: -10 %
+	}.about - card - 1 h4
+	{
+		font - size: 20 px;
+		line - height: 28 px
+	}.build h2
+	{
+		font - size: 30 px;
+		line - height: 36 px
+	}.build
+	{
+		margin - top: 120 px
+	}.about - info.heading.about, ul.funfact
+	{
+		padding: 10 px
+	}.content h2
+	{
+		font - size: 30 px;
+		padding - top: 25 px
+	}.content p
+	{
+		width: 100 %
+	}.about - section - photo
+	{
+		padding - left: 15 px
+	}.about - section - photo: before
+	{
+		height: 119 px;width: 480 px
+	}.about - info.heading.about h3
+	{
+		font - size: 24 px;
+		line - height: 30 px
+	}.photo - section.about: after
+	{
+		top: 69 %
+	}.photo - section.about i
+	{
+		left: 39 % ;height: 50 px;width: 50 px;top: 40 % ;font - size: 16 px
+	}.join - meeting a.join
+	{
+		font - size: 20 px;
+		line - height: 30 px
+	}.the - next - workout.workout - time h5
+	{
+		font - size: 30 px;
+		padding: 0 25 px;
+		margin - top: 0
+	}.subscribe - to h3, .the - next - workout.heading h3
+	{
+		font - size: 24 px;
+		line - height: 34 px
+	}.subscribe - to p
+	{
+		padding - top: 20 px
+	}.subscribe - to form
+	{
+		margin - top: 20 px
+	}.subscribe - section.online.subscribe - to: after
+	{
+		right: -16 % ;top: 80 %
+	}.workout - time h6: before
+	{
+		height: 40 px
+	}.photos: before
+	{
+		width: 369 px;height: 215 px;left: 0;top: 57 %
+	}.progressbar
+	{
+		padding: 30 px
+	}.progress - bar - img: before
+	{
+		top: 36 % ;left: 16 % ;width: 300 px;height: 213 px
+	}.comment - data - title p
+	{
+		padding: 18 px
+	}
+	li.second
+	{
+		margin - left: 40 px
+	}
+	li.first
+	{
+		margin - left: 20 px
+	}.hero - blog
+	{
+		padding - top: 120 px
+	}
+	ul.fast li h6
+	{
+		padding - top: 15 px
+	}
+}
